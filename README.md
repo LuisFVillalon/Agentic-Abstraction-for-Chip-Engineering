@@ -4,6 +4,8 @@ Convert SystemVerilog RTL into architecture diagrams using a multi-agent LLM pip
 
 **Architect -> Auditor -> Stylist -> DOT Compiler -> QuickChart (SVG)**
 
+<img width="1024" height="1536" alt="download" src="https://github.com/user-attachments/assets/49fe6a6b-bc6f-457f-a712-7a1c765534ba" />
+
 ---
 
 ## What It Does
