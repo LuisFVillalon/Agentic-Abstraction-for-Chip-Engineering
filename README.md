@@ -1,10 +1,8 @@
-# Agentic Converter
+# AACE — Agentic Abstraction for Chip Engineering
 
 Convert SystemVerilog RTL into architecture diagrams using a multi-agent LLM pipeline:
 
 **Architect -> Auditor -> Stylist -> DOT Compiler -> QuickChart (SVG)**
-
-<img width="1024" height="1536" alt="download" src="https://github.com/user-attachments/assets/49fe6a6b-bc6f-457f-a712-7a1c765534ba" />
 
 ---
 
@@ -18,6 +16,14 @@ Convert SystemVerilog RTL into architecture diagrams using a multi-agent LLM pip
 - Supports iterative regeneration with cumulative style edits
 
 ---
+
+## Demo
+
+https://github.com/user-attachments/assets/cdb90749-ab00-404f-b5f6-e29fec4c6d15
+
+
+<img width="1024" height="1536" alt="download" src="https://github.com/user-attachments/assets/01e451fe-8c07-4f90-a979-df83459cf2b6" />
+
 
 ## Setup
 
